@@ -9,7 +9,7 @@
 
 ::============================================================================
 ::
-::   This script is a part of 'Microsoft_Activation_Scripts' (MAS) project.
+::   This script is a part of MAS project.
 ::
 ::   
 ::      Email: lupael@i4e.com.bd
